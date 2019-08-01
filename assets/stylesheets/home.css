@@ -2,6 +2,7 @@ html {
   background: url(../images/bh-2.jpg) no-repeat center center fixed;
   background-size: cover;
 }
+
 body{
   /* background-color: #f4f4f4; */
 background-color: rgba(244,244,244,0.75);
@@ -14,7 +15,6 @@ section{
   position: relative;
   border: 1px solid #000;
 
-
 }
 .absolute{
   width: 200px;
@@ -26,4 +26,8 @@ section{
   width: 200px;
   height: 200px;
   border: 1px; solid #000
+}
+
+h1{
+font-family: 'DM Serif Display', serif;  
 }
