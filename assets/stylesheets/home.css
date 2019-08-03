@@ -3,10 +3,6 @@ html {
   background-size: cover;
 }
 
-body{
-  /* background-color: #f4f4f4; */
-background-color: rgba(244,244,244,0.75);
-}
 section{
   /* shorthand for padding top and bottom */
   padding: 80px 0;
@@ -29,5 +25,5 @@ section{
 }
 
 h1{
-font-family: 'DM Serif Display', serif;  
+font-family: 'DM Serif Display', serif;
 }
